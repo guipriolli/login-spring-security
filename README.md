@@ -1,1 +1,1 @@
-Backend do site SuaCasa.Online.
+Projeto exemplo para fazer login usando Spring Boot, Hibernate, JPA e PostgreSQL.
